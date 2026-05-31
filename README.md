@@ -1,2 +1,13 @@
-# software-lab5-github-demo-20260531-122523
-Software architecture lab 5 GitHub version-control demo
+﻿# 软件体系架构 实验5 GitHub 版本控制演示
+
+本仓库用于完成“使用 GitLab 进行版本控制”实验的 GitHub 等价流程。
+
+## 实验内容
+- 克隆仓库
+- 提交与推送
+- 多人协作与冲突处理
+- 分支开发与 Pull Request 合并
+- 标签与历史追踪
+
+## 协作记录
+共享状态：初始版本
